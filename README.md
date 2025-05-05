@@ -23,15 +23,15 @@ no projeto vá até Platforms -> Android -> AndroidManifest.xml
 
 Em permissões deixe marcado as opções:
 
-ACCESS_NETWORK_STATE
-CAMERA
-INTERNET
-READ_EXTERNAL_STORAGE
-READ_MEDIA_AUDIO
-READ_MEDIA_IMAGES
-READ_MEDIA_VIDEO
-RECORD_AUDIO
-WRITE_EXTERNAL_STORAGE
+##### ACCESS_NETWORK_STATE
+##### CAMERA
+##### INTERNET
+##### READ_EXTERNAL_STORAGE
+##### READ_MEDIA_AUDIO
+##### READ_MEDIA_IMAGES
+##### READ_MEDIA_VIDEO
+##### RECORD_AUDIO
+##### WRITE_EXTERNAL_STORAGE
 
 agora abra o Manifest como EDITOR de XML
 insira o codigo abaixo no final
